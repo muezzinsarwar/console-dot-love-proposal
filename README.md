@@ -2,6 +2,8 @@
 
 ## Overview
 
+console.love is a dating app for lonely developers looking to connect with each other IRL. Users can create a profile for themselves and have it displayed on the home page for other users to see and match with. Users can also edit their own profiles to update their status.
+
 ## Wireframes
 
 ![Wireframe](https://user-images.githubusercontent.com/57021062/74549991-38db6a80-4f16-11ea-868d-fdfdbc4b282d.png)
