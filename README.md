@@ -45,6 +45,8 @@ Back end:
 
 ## Wireframes
 
+![Wireframe](https://user-images.githubusercontent.com/57021062/74549991-38db6a80-4f16-11ea-868d-fdfdbc4b282d.png)
+
 ## Component Hierarchy
 
 ![Component Hierarchy Diagram](https://user-images.githubusercontent.com/57021062/74549055-92db3080-4f14-11ea-813d-ec4333c03d07.png)
@@ -57,22 +59,22 @@ Back end:
 
 ## App Tiers
 
-### Bronze (MVP)
+#### Bronze (MVP)
 - App optimized for mobile from outset
-- Homepage displays 10 pictures (10 profiles in database)
+- Welcome page contains blank form with option to Sign Up (create profile) or Continue as Guest (routes to Home)
+- Home displays an assortment of profile pictures (from profiles in database)
 - Each picture is a clickable link that takes user to a profile page
 - The profile page contains: picture, age, name, location, about me, programming languages, Home button and Match button
 - Match button takes you to a page that displays "It's a Match!" and a Home button
-- Ability to create a profile on a separate page with a blank form
-- Edit page with a pre-populated form where user can update or delete their profile
+- Edit page with pre-populated form to update or delete user profile
 
-### Silver
+#### Silver
 - Pictures grid rotates every time site loads
 - If you match, you can see their github link
 - Refactor with Hooks
 - Logo
 
-### Gold
+#### Gold
 - User authentication
 - Incorporate GoogleMaps location for profiles/user
 - Messaging by id (users can chat with each other)
