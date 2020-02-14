@@ -3,6 +3,12 @@
 ## Overview
 
 ## User Stories
+- As a user, I would like to see a welcome screen and sign up as a user or continue as a guest.
+- As a user, I would like to see the profiles of other people I can connect with.
+- As a user, I would click on the profile button and see my own profile.
+- As a user, I would like to click an edit button to edit or delete my own profile.
+- As a user, I would like to click on another person's profile picture to see their entire profile.
+- As a user, I would like to click the match button to match up with the people that I like.
 
 ## Planned Workflow and Responsibilities
 
