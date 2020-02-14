@@ -20,7 +20,7 @@ These responsibilities are based on team members' natural strengths. Each member
 
 ## Technologies
 
-## Commponent Hierarchy
+## Component Hierarchy
 
 ## Dataflow Diagram
 
