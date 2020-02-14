@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Wireframes
-
 ## User Stories
 
 ## Planned Workflow and Responsibilities
@@ -20,7 +18,13 @@ These responsibilities are based on team members' natural strengths. Each member
 
 ## Technologies
 
+## Wireframes
+
 ## Component Hierarchy
+
+## Profile Data Example
+
+![Profile Document Example](https://user-images.githubusercontent.com/57021062/74544666-214bb400-4f0d-11ea-945c-6cb27dfb399e.png)
 
 ## Dataflow Diagram
 
