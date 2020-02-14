@@ -61,7 +61,7 @@ Back end:
 
 #### Preliminary Dataflow Example
 
-![Dataflow Diagram)(https://user-images.githubusercontent.com/57021062/74551538-fa937a80-4f18-11ea-9238-c7fdc5764f21.png)
+![Dataflow Diagram](https://user-images.githubusercontent.com/57021062/74551538-fa937a80-4f18-11ea-9238-c7fdc5764f21.png)
 
 ## App Tiers
 
