@@ -16,7 +16,7 @@ Muezzin - Git Manager - Javascript Guru - Algorithm Wizard
 <br>
 Rixio - Ideas Guy - CSS Master - Comfortable in React
 
-All planning and task tracking will be handled through our Trello Team Board.  The team has set a rough schedule and will meet over Zoom. We plan to work on both things we are comfortable with and things that we struggle with, so that we each learn something new and improve areas that need it.
+These responsibilities are based on team members' natural strengths. Each member will be working on both ends of the project. We plan to work on both things we are comfortable with and things that we struggle with, so that we each learn something new and improve areas that need it. All planning and task tracking will be handled through our Trello Team Board.  The team has set a rough schedule and will meet over Zoom. 
 
 ## Technologies
 
