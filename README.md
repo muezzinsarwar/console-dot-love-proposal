@@ -6,7 +6,7 @@
 
 ## Planned Workflow and Responsibilities
 
-The console.love team will use a commbination of Centralized and Feature Branch Git Workflows, with an emphasis on pair programming. Responsibilities will be distributed roughly as follows:
+The console.love team will use a combination of Centralized and Feature Branch Git Workflows, with an emphasis on pair programming. Responsibilities will be distributed roughly as follows:
 
 Jaimie - Project Manager - Backend + Testing - Deployment - React Router
 <br>
@@ -17,10 +17,31 @@ Rixio - Ideas Guy - CSS Master - Comfortable in React
 These responsibilities are based on team members' natural strengths. Each member will be working on both ends of the project. We plan to work on both things we are comfortable with and things that we struggle with, so that we each learn something new and improve areas that need it. All planning and task tracking will be handled through our Trello Team Board.  The team has set a rough schedule and will meet over Zoom. 
 
 ## Technologies
+Front end:
+- React, React Router
+- Axios for API calls
+- CSS Grid
+
+Back end:
+- Database
+   - MongoDB
+   - Mongoose
+- Functionality
+   - Express
+   - Method-override
+   - Lodash
+- Connection between back and front ends
+   - Cors
+- Testing
+  - Supertest
+  - Chai
+  - Mocha
 
 ## Wireframes
 
 ## Component Hierarchy
+
+![Component Hierarchy Diagram](https://user-images.githubusercontent.com/57021062/74549055-92db3080-4f14-11ea-813d-ec4333c03d07.png)
 
 ## Profile Data Example
 
