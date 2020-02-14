@@ -2,6 +2,10 @@
 
 ## Overview
 
+## Wireframes
+
+![Wireframe](https://user-images.githubusercontent.com/57021062/74549991-38db6a80-4f16-11ea-868d-fdfdbc4b282d.png)
+
 ## User Stories
 - As a user, I would like to see a welcome screen and sign up as a user or continue as a guest.
 - As a user, I would like to see the profiles of other people I can connect with.
@@ -14,7 +18,7 @@
 
 The console.love team will use a combination of Centralized and Feature Branch Git Workflows, with an emphasis on pair programming. Responsibilities will be distributed roughly as follows:
 
-Jaimie - Project Manager - Backend + Testing - Deployment - React Router
+Jaimie - Project Manager/Scrum Master - Backend + Testing - Deployment - React Router
 <br>
 Muezzin - Git Manager - Javascript Guru - Algorithm Wizard
 <br>
@@ -42,10 +46,6 @@ Back end:
   - Supertest
   - Chai
   - Mocha
-
-## Wireframes
-
-![Wireframe](https://user-images.githubusercontent.com/57021062/74549991-38db6a80-4f16-11ea-868d-fdfdbc4b282d.png)
 
 ## Component Hierarchy
 
